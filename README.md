@@ -70,6 +70,4 @@ ACCOUNT CREATED !! WELCOME Albin (Acc NO : 1234567890)
 ✨ Author
 
 -Albin Jojo
-2.Withdraw
-3.Check Balance
-4.Exit
+
